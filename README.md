@@ -1,8 +1,6 @@
 # A Light SRGAN for Low Rsolution and High Latency Images
 
-### Repository for the [Paper]() Presented at []()
+### Repository for the [A Light SRGAN For Low Resolution and High Latency Images]() Presented at [ICACDS'21](https://icacds.com/)
 
-The main goal of this experimentation was to successfully construct a SRGAN model that can compile and produce high quality results on any kind of device and be fast in doing so.
-
-We were able to achieve near SoTA like performance with a final model that is less than 20MB is size.
+The model, derived from original SRGAN is supposed to work on much smaller images and with a much higher noise value. The target of the paper was to create a Model that is fast, light and trained on a much smaller dataset and time.
 
