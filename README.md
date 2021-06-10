@@ -25,3 +25,17 @@ missing details as it can from simple pixels, to fully defined and distinct feat
 resolution than the Low-Resolution Images.
 
 
+## Network Architecture
+
+![Generator](https://github.com/ArchanGhosh/A_light_SRGAN_for_Low_Resolution_and_High_Latency_Images/blob/master/Network%20Architecture/Architecture-1.png)
+<br>
+
+The Full Size Generator can Be found [Here](https://github.com/ArchanGhosh/A_light_SRGAN_for_Low_Resolution_and_High_Latency_Images/blob/master/Network%20Architecture/gen_info_full.png)
+
+
+![Discriminator](https://github.com/ArchanGhosh/A_light_SRGAN_for_Low_Resolution_and_High_Latency_Images/blob/master/Network%20Architecture/Discriminator-1.png)
+
+<br>
+
+The Full Size Discriminator can Be found [Here](https://github.com/ArchanGhosh/A_light_SRGAN_for_Low_Resolution_and_High_Latency_Images/blob/master/Network%20Architecture/dis_info_full.png)
+
