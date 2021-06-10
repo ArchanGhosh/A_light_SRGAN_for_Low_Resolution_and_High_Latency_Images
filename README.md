@@ -4,3 +4,24 @@
 
 The model, derived from original SRGAN is supposed to work on much smaller images and with a much higher noise value. The target of the paper was to create a Model that is fast, light and trained on a much smaller dataset and time.
 
+The paper was reviewed at 2 places before being published at ICACDS'21 along with being published in [Springer CCIS](https://www.springer.com/series/7899) Journal. 
+
+<br>
+
+## Abstract
+
+In the past few years Single Image Super-Resolution(SISR)
+has been one of the most researched topics in the field of AI. SuperResolution Generative Adversarial Nets in short SRGAN paved the way
+to achieve Super-Resolution(SR) of images while hallucinating a lot of
+details. Deriving from the main components from SRGAN, i.e. Architecture, Loss and Adversarial nature, we have refined a model that works for
+very small images, and tries to make out as much information as possible
+in a short amount of time. The main things being focused are to create
+a fast Generator which also tries to keep a good SSIM score with the
+ground truth images, tries to recover as much of the information from
+relative pixels and also gets close enough to benchmark performance with
+as limited resources as possible. The core objective of having a simple,
+fast and light model, is not only to enlarge images but fill in as many
+missing details as it can from simple pixels, to fully defined and distinct features within that image that might have double or quadruple
+resolution than the Low-Resolution Images.
+
+
