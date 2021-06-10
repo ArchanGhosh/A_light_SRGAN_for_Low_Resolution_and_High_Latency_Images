@@ -39,3 +39,6 @@ The Full Size Generator can Be found [Here](https://github.com/ArchanGhosh/A_lig
 
 The Full Size Discriminator can Be found [Here](https://github.com/ArchanGhosh/A_light_SRGAN_for_Low_Resolution_and_High_Latency_Images/blob/master/Network%20Architecture/dis_info_full.png)
 
+<br>
+
+The code are not provided in the exact manner because of copyright, but they can be easily recreated in a TF.2x Env.
