@@ -42,3 +42,6 @@ The Full Size Discriminator can Be found [Here](https://github.com/ArchanGhosh/A
 <br>
 
 The code are not provided in the exact manner because of copyright, but they can be easily recreated in a TF.2x Env.
+
+
+Feel free to contact if you have any queries.
