@@ -41,6 +41,18 @@ The Full Size Discriminator can Be found [Here](https://github.com/ArchanGhosh/A
 
 <br>
 
+##Dataset Used
+We have used the following dataset for training:
+
+[COIL-100](https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
+[Div2k-Training Split](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+
+And the following dataset as test:
+[Set-5](https://deepai.org/dataset/set5-super-resolution)
+[Set-14](https://deepai.org/dataset/set14-super-resolution)
+
+
+
 The code are not provided in the exact manner because of copyright, but they can be easily recreated in a TF.2x Env.
 
 
