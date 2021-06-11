@@ -41,7 +41,8 @@ The Full Size Discriminator can Be found [Here](https://github.com/ArchanGhosh/A
 
 <br>
 
-##Dataset Used
+## Dataset Used
+
 We have used the following dataset for training:
 
 [COIL-100](https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
